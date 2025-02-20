@@ -1,0 +1,30 @@
+button{ color: aqua;
+}
+.completed{
+    text-decoration:line-through;
+    text-decoration-color: rgb(191, 192, 207);
+}
+h1{
+    text-align:center;
+    text-decoration: double;
+    text-shadow: 10px;
+}
+h2{
+    text-align: center;
+}
+P{
+    text-align:center;
+    font-size:small;
+    font-weight:bolder;
+    text-shadow: 10px;
+}
+u1,li{
+    text-align: center;
+    font-weight: bolder;
+    text-shadow: 20px;
+}
+
+
+
+
+
